@@ -16,3 +16,4 @@ Altfel, exista 3 cazuri:
 3.Pagina se afla si in file_size si in mem_size si trb stiut cat sa fie mapat in memorie si restul ramane cu 0.
 Astfel am mapat pagina cu fault direct cu 0 si am citit direct in memorie cat am avut nevoie / daca am avut nevoie cu ajutorul variabilei size.
 Pagina este marcata ca fiind mapata in vectorul data.# Operating-System-Loader
+# Operating-System-Loader
