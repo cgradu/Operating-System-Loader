@@ -5,8 +5,6 @@ This repository contains the implementation of a loader, developed as part of an
 ### Implementation Details
 
 - **Author**: Constantin Radu-Giorgian
-- **Group**: 321
-- **Series**: CC
 
 ### Key Components
 
