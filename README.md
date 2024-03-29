@@ -2,8 +2,6 @@
 
 This repository contains the implementation of a loader, developed as part of an Operating Systems project in 2022. The loader is responsible for handling SIGSEGV (Segmentation Fault) signals and managing memory mappings accordingly.
 
-### Implementation Details
-
 - **Author**: Constantin Radu-Giorgian
 
 ### Key Components
